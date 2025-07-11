@@ -1,0 +1,486 @@
+{
+    "common": [
+        {
+            "display_name": "Angry Red",
+            "reference_name": "angry_red",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Grass",
+            "reference_name": "grass",
+            "creator": "Martin Magni",
+            "origin": "Fancade"
+        },
+        {
+            "display_name": "Mr Elated",
+            "reference_name": "mr_elated",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Nn1",
+            "reference_name": "nn1",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Parriez Clever",
+            "reference_name": "parriez_clever",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Prisoner Dude",
+            "reference_name": "prisoner_dude",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Purply",
+            "reference_name": "purply",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Reddy",
+            "reference_name": "reddy",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Shrub",
+            "reference_name": "shrub",
+            "creator": "Martin Magni",
+            "origin": "Fancade"
+        },
+        {
+            "display_name": "Skill Blue",
+            "reference_name": "skill_blue",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Brown",
+            "reference_name": "skill_brown",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Gray",
+            "reference_name": "skill_gray",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Green",
+            "reference_name": "skill_green",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Orange",
+            "reference_name": "skill_orange",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Pink",
+            "reference_name": "skill_pink",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Purple",
+            "reference_name": "skill_purple",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Red",
+            "reference_name": "skill_red",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill White",
+            "reference_name": "skill_white",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Skill Yellow",
+            "reference_name": "skill_yellow",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        }
+    ],
+    "uncommon": [
+        {
+            "display_name": "Blob",
+            "reference_name": "blob",
+            "creator": "Emparans",
+            "origin": "Blob"
+        },
+        {
+            "display_name": "Buffy",
+            "reference_name": "buffy",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Cookie Blaster",
+            "reference_name": "cookie_blaster",
+            "creator": "GameCreator",
+            "origin": "Cookie Blast"
+        },
+        {
+            "display_name": "George",
+            "reference_name": "george",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Knighty",
+            "reference_name": "knighty",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Monster Match Blue",
+            "reference_name": "monster_match_blue",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match Brown",
+            "reference_name": "monster_match_brown",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match Orange",
+            "reference_name": "monster_match_orange",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match Pink",
+            "reference_name": "monster_match_pink",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match Purple",
+            "reference_name": "monster_match_purple",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match Red",
+            "reference_name": "monster_match_red",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match White",
+            "reference_name": "monster_match_white",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Monster Match Yellow",
+            "reference_name": "monster_match_yellow",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Pinky",
+            "reference_name": "pinky",
+            "creator": "Martin Magni",
+            "origin": "Roper"
+        },
+        {
+            "display_name": "Tumble",
+            "reference_name": "tumble",
+            "creator": "Alex",
+            "origin": "Tumble"
+        },
+        {
+            "display_name": "Znake",
+            "reference_name": "znake",
+            "creator": "R3DZ3R",
+            "origin": "Znake"
+        }
+    ],
+    "rare": [
+        {
+            "display_name": "Bridge Builder",
+            "reference_name": "bridge_builder",
+            "creator": "LukaszM",
+            "origin": "Bridge Builder"
+        },
+        {
+            "display_name": "Florange",
+            "reference_name": "florange",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Gobble",
+            "reference_name": "gobble",
+            "creator": "Martin Magni",
+            "origin": "Gobble"
+        },
+        {
+            "display_name": "Jetpack Purply",
+            "reference_name": "jetpack_purply",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Jetpack Reddy",
+            "reference_name": "jetpack_reddy",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Mathias Elgaard",
+            "reference_name": "mathias_elgaard",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Monster Match Knight",
+            "reference_name": "monster_match_knight",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Nick",
+            "reference_name": "nick",
+            "creator": "LukaszM",
+            "origin": "Nick"
+        },
+        {
+            "display_name": "Redzer",
+            "reference_name": "redzer",
+            "creator": "R3DZ3R",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Reload",
+            "reference_name": "reload",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Toxel",
+            "reference_name": "toxel",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        }
+    ],
+    "epic": [
+        {
+            "display_name": "Dino",
+            "reference_name": "dino",
+            "creator": "Martin Magni",
+            "origin": "Dino"
+        },
+        {
+            "display_name": "Ditto",
+            "reference_name": "ditto",
+            "creator": "Martin Magni",
+            "origin": "Ditto"
+        },
+        {
+            "display_name": "Fuzzy Kale",
+            "reference_name": "fuzzy_kale",
+            "creator": "R3DZ3R",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Ginger",
+            "reference_name": "ginger",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "Monster Match",
+            "reference_name": "monster_match",
+            "creator": "Martin Magni",
+            "origin": "Monster Match"
+        },
+        {
+            "display_name": "Skill Team",
+            "reference_name": "skill_team",
+            "creator": "LukaszM",
+            "origin": "Skillteam"
+        },
+        {
+            "display_name": "Sloaky",
+            "reference_name": "sloaky",
+            "creator": "R3DZ3R",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Speed King",
+            "reference_name": "speed_king",
+            "creator": "Mathias Elgaard & Martin Magni",
+            "origin": "Speed King"
+        },
+        {
+            "display_name": "Switch",
+            "reference_name": "switch",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Troll",
+            "reference_name": "troll",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Turbo Tracks",
+            "reference_name": "turbo_tracks",
+            "creator": "Martin Magni",
+            "origin": "Turbo Tracks"
+        }
+    ],
+    "mythic": [
+        {
+            "display_name": "Civilian",
+            "reference_name": "civilian",
+            "creator": "Isaglish",
+            "origin": "CATastrophe"
+        },
+        {
+            "display_name": "e",
+            "reference_name": "e",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Fat Jones",
+            "reference_name": "fat_jones",
+            "creator": "Spolarium",
+            "origin": "Fat Jones"
+        },
+        {
+            "display_name": "Heist",
+            "reference_name": "heist",
+            "creator": "Spolarium",
+            "origin": "Heist"
+        },
+        {
+            "display_name": "Longcat",
+            "reference_name": "longcat",
+            "creator": "Martin Magni",
+            "origin": "Longcat"
+        },
+        {
+            "display_name": "Mad Car",
+            "reference_name": "mad_car",
+            "creator": "Martin Magni",
+            "origin": "Drive Mad"
+        },
+        {
+            "display_name": "Mr Crocodile",
+            "reference_name": "mr_crocodile",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Pivot",
+            "reference_name": "pivot",
+            "creator": "Sounak9434",
+            "origin": "Pivot"
+        },
+        {
+            "display_name": "Sweatsmile",
+            "reference_name": "sweatsmile",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        }
+    ],
+    "legendary": [
+        {
+            "display_name": "Box Art Assassin",
+            "reference_name": "box_art_assassin",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Dino Bros",
+            "reference_name": "dino_bros",
+            "creator": "Martin Magni",
+            "origin": "Dino Bros"
+        },
+        {
+            "display_name": "Flatboy",
+            "reference_name": "flatboy",
+            "creator": "Martin Magni",
+            "origin": "Flatland"
+        },
+        {
+            "display_name": "Railgunner",
+            "reference_name": "railgunner",
+            "creator": "Martin Magni",
+            "origin": "Railgunner"
+        },
+        {
+            "display_name": "Red Shadow",
+            "reference_name": "red_shadow",
+            "creator": "Sawdust",
+            "origin": "Red Shadow"
+        },
+        {
+            "display_name": "Wiki",
+            "reference_name": "wiki",
+            "creator": "Unknown",
+            "origin": "Unknown"
+        }
+    ],
+    "exotic": [
+        {
+            "display_name": "Blackzer",
+            "reference_name": "blackzer",
+            "creator": "Blackzer",
+            "origin": "Unknown"
+        },
+        {
+            "display_name": "Carbot",
+            "reference_name": "carbot",
+            "creator": "Martin Magni",
+            "origin": "Odd Bot"
+        },
+        {
+            "display_name": "Oddbot",
+            "reference_name": "oddbot",
+            "creator": "Martin Magni",
+            "origin": "Odd Bot"
+        },
+        {
+            "display_name": "Snek",
+            "reference_name": "snek",
+            "creator": "Martin Magni",
+            "origin": "Snek Left"
+        }
+    ],
+    "nightmare": [
+        {
+            "display_name": "Martin Magni",
+            "reference_name": "martin_magni",
+            "creator": "Martin Magni",
+            "origin": "Martin Magni"
+        },
+        {
+            "display_name": "Oddbot Plushie",
+            "reference_name": "oddbot_plushie",
+            "creator": "Martin Magni",
+            "origin": "Martin Magni"
+        }
+    ]
+}

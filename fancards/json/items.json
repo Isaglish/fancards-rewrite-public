@@ -1,0 +1,108 @@
+{
+    "items": [
+        {
+            "display_name": "glistening gem",
+            "description": "A glistening gem. Can be obtained by burning a shiny card.",
+            "emoji_enum_name": "ITEM_GLISTENING_GEM",
+            "shop_data": null,
+            "visible": true,
+            "usable": false
+        },
+        {
+            "display_name": "fusion crystal",
+            "description": "Allows access to the fusion device in the forge.",
+            "emoji_enum_name": "ITEM_FUSION_CRYSTAL",
+            "shop_data": {
+                "shop_price": 7500,
+                "shop_currency": "STAR"
+            },
+            "visible": true,
+            "usable": false
+        },
+        {
+            "display_name": "premium drop",
+            "description": "A premium drop with increased odds. Guarantees uncommon card and higher.",
+            "emoji_enum_name": "ITEM_PREMIUM_DROP",
+            "shop_data": {
+                "shop_price": 2,
+                "shop_currency": "VOUCHER"
+            },
+            "visible": true,
+            "usable": false
+        },
+        {
+            "display_name": "crown",
+            "description": "This precious golden crown allows you to craft various rare items and cards due to its rare properties.",
+            "emoji_enum_name": "ITEM_GLISTEITEM_CROWNNING_GEM",
+            "shop_data": {
+                "shop_price": 250000,
+                "shop_currency": "SILVER"
+            },
+            "visible": true,
+            "usable": false
+        },
+        {
+            "display_name": "backpack upgrade",
+            "description": "Increases the amount of cards you can collect. You can collect infinite cards at level 5 backpack.",
+            "emoji_enum_name": "ICON_LEVEL_UP",
+            "shop_data": null,
+            "visible": false,
+            "usable": false
+        },
+        {
+            "display_name": "rare card pack",
+            "description": "A rare card pack that comes with 7 total cards. It has guaranteed 2~4 rare cards and uncommons.",
+            "emoji_enum_name": "ITEM_CARD_PACK_RARE",
+            "shop_data": {
+                "shop_price": 3000,
+                "shop_currency": "SILVER"
+            },
+            "visible": true,
+            "usable": true
+        },
+        {
+            "display_name": "epic card pack",
+            "description": "An epic card pack that comes with 7 total cards. Contains guaranteed 1~2 epic cards, 0~6 rare cards, and uncommons.",
+            "emoji_enum_name": "ITEM_CARD_PACK_EPIC",
+            "shop_data": {
+                "shop_price": 6000,
+                "shop_currency": "SILVER"
+            },
+            "visible": true,
+            "usable": true
+        },
+        {
+            "display_name": "mythic card pack",
+            "description": "A mythic card pack that comes with 5 total cards. Contains a guaranteed mythic card, 1~2 epic cards, and rares.",
+            "emoji_enum_name": "ITEM_CARD_PACK_MYTHIC",
+            "shop_data": {
+                "shop_price": 15000,
+                "shop_currency": "SILVER"
+            },
+            "visible": true,
+            "usable": true
+        },
+        {
+            "display_name": "legendary card pack",
+            "description": "A legendary card pack that comes with 5 total cards. Contains a guaranteed legendary card, possible mythic card or epic card, and rares.",
+            "emoji_enum_name": "ITEM_CARD_PACK_LEGENDARY",
+            "shop_data": {
+                "shop_price": 50000,
+                "shop_currency": "SILVER"
+            },
+            "visible": true,
+            "usable": true
+        },
+        {
+            "display_name": "exotic card pack",
+            "description": "An exotic card pack that comes with 5 total cards. Contains possible exotic card, 0~2 legendary cards, possible mythic card, and epics.",
+            "emoji_enum_name": "ITEM_CARD_PACK_EXOTIC",
+            "shop_data": {
+                "shop_price": 125000,
+                "shop_currency": "SILVER"
+            },
+            "visible": true,
+            "usable": true
+        }
+    ]
+}

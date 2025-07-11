@@ -1,0 +1,27 @@
+<type>(<scope>): <subject>
+
+The components of a conventional commit message are:
+
+<type>: Describes the purpose or category of the commit.
+It can be one of the following types (although you can define your own types if needed):
+
+- feat: A new feature
+- fix: A bug fix
+- docs: Documentation changes
+- style: Code style changes (e.g., formatting, indentation)
+- refactor: Code refactoring without adding new features or fixing bugs
+- test: Adding or modifying tests
+- chore: General maintenance or other changes that don't fit into the above categories
+
+<scope> (optional): Indicates the module, component, or section of the codebase that is affected by the commit.
+It helps provide context about the commit.
+
+<subject>: A brief and concise description of the commit's purpose.
+It should be written in the imperative mood and not include a period at the end.
+
+feat(user-auth): add user authentication functionality
+fix(api): fix issue with data retrieval
+docs(readme): update project documentation
+style(css): refactor code formatting in stylesheets
+test(login): add unit tests for login feature
+chore(deps): update dependencies to latest versions
